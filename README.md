@@ -1,4 +1,4 @@
-# NetatmoWeatherStation
+# Netatmo Weather Station
 LabVIEW project to retrieve data from Netatmo Weather Station.
 
 We call the Weather API provided by Netatmo. The documentation is avialable [here](https://dev.netatmo.com/apidocumentation/weather#product-details). 
@@ -31,3 +31,9 @@ OAuth2 authetification steps:
 * The user is prompted to authorize your application
 * The user is redirected to your application
 * Retrieve the access token with the code
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
