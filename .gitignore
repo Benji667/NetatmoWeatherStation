@@ -31,3 +31,5 @@ __pycache__/
 
 # VS files
 .vscode/
+config/config - Redirect.ini
+config/config - Credentials.ini
