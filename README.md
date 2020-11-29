@@ -17,7 +17,7 @@ We call the Weather API provided by Netatmo. The documentation is avialable [her
 
 3- Open the Netatmo Weather Station.lvproj with LabVIEW 2020 or higher. 
 
-4- You need to update the <i>client_id</i> and the <i>client_secret</i>, savec in step 2-, in the Init Globals.vi.
+4- You need to update the parameters, such as <i>client_id</i> and the <i>client_secret</i> saved in step 2-, in the \config\config.ini.
 
 5- Start the Web Server by right clicking on “OAuth” in the Project Window and select <b>Application Web Server>>Start (Debug Server)</b>.
 
@@ -31,6 +31,8 @@ OAuth2 authetification steps:
 * The user is prompted to authorize your application
 * The user is redirected to your application
 * Retrieve the access token with the code
+
+7- Open and execute the Main wCredentials VI. This VI performs Client credentials grant type and uses the getstationdata request to retrieve data.
 
 ## Contributing
 
