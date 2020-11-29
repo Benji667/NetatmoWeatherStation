@@ -1,7 +1,7 @@
 # NetatmoWeatherStation
 LabVIEW project to retrieve data from Netatmo Weather Station.
 
-We call the Weather API provided by Netatmo. The documentation is avialable ![here](https://dev.netatmo.com/apidocumentation/weather#product-details). 
+We call the Weather API provided by Netatmo. The documentation is avialable [here](https://dev.netatmo.com/apidocumentation/weather#product-details). 
 
 ## Usage
 
