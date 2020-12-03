@@ -2,6 +2,7 @@
 LabVIEW project to retrieve data from Netatmo Weather Station.
 
 We call the Weather API provided by Netatmo. The documentation is avialable [here](https://dev.netatmo.com/apidocumentation/weather#product-details). 
+Really well explained article about OAuth2 in LabVIEW [here](https://stravaro.com/2020/01/oauth2-and-labview/).
 
 ## Usage
 
